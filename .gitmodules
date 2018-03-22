@@ -1,0 +1,9 @@
+[submodule "graze_plugin"]
+	path = graze_plugin
+	url = https://github.com/cuhde/graze_plugin
+[submodule "graze_controller"]
+	path = graze_controller
+	url = https://github.com/cuhde/graze_controller
+[submodule "occupy"]
+	path = occupy
+	url = https://github.com/cuhde/occupy
