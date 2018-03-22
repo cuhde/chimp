@@ -1,11 +1,11 @@
 # graze
-This is my master thesis meta repository.
-[Thesis PDF](constantin_uhde_thesis.pdf)  
-[Thesis with code appendix PDF](constantin_uhde_thesis_code_appendix.pdf)
+This is the supplementary repository to the paper "GRAZE: Reactive Stochastic Functional Gradient Path Planning Using Multimodal Robot Skin and Hilbert Maps"
 
-## Python Code
+## Source Code
+The submodules are currently private. Please contact the authors for access.
+### Python Code
 [Python proof-of-concept](https://github.com/cuhde/occupy)
-## C++ Code
+### C++ Code
 [GRAZE planner plugin](https://github.com/cuhde/graze_plugin)  
 [GRAZE controller](https://github.com/cuhde/graze_controller)
 ## Videos
