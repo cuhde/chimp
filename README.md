@@ -1,6 +1,15 @@
 # CHiMP
-This is the supplementary repository to the paper "CHiMP: Contact based Hilbert Map Planner"
-
+This is the supplementary repository to the paper [CHiMP: Contact based Hilbert Map Planner](https://ieeexplore.ieee.org/abstract/document/8794013)
+```
+@inproceedings{uhde2019chimp,
+  title={CHiMP: A Contact based Hilbert Map Planner},
+  author={Uhde, Constantin and Dean-Leon, Emmanuel and Cheng, Gordon},
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+  pages={8381--8387},
+  year={2019},
+  organization={IEEE}
+}
+```
 ## Source Code
 The submodules are currently private. Please contact the authors for access.
 ### Python Code
